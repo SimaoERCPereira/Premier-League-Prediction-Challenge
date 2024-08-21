@@ -1,4 +1,4 @@
-Premier League Prediction Challenge App
+# Premier League Prediction Challenge App
 
 A fun and interactive app built with Python and Streamlit, where participants can predict the final standings of the Premier League and track how their predictions stack up against the actual results throughout the season.
 
